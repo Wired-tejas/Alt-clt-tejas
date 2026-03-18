@@ -41,7 +41,7 @@ I build intelligent, autonomous systems that bridge the gap between complex data
 ---
 
 ### 🤝 Let's Collaborate
-- 📍 Based in **Dombivli, Mumbai**
+- 📍 Based in **Mumbai**
 - 📧 [tejaschorage20@gmail.com](mailto:tejaschorage20@gmail.com)
 - 💼 [LinkedIn](YOUR_LINKEDIN_URL)
 - 🐦 [Twitter](YOUR_TWITTER_URL)
