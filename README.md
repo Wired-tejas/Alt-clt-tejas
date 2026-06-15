@@ -1,4 +1,4 @@
-# 🤖 Hi, I'm Tejas Chorage! 
+# 🤖 Hi, I'm Tejas! 
 
 ### **Software Developer | Specialist in Agentic AI & RAG Systems** 🚀
 I build intelligent, autonomous systems that bridge the gap between complex data and user experience. Currently pursuing my B.Tech in IT at Vidyalankar Institute of Technology (Class of 2026).
