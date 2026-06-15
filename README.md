@@ -34,12 +34,6 @@ I build intelligent, autonomous systems that bridge the gap between complex data
 
 ---
 
-### 📊 My Developer Pulse
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
-
----
-
 ### 🤝 Let's Collaborate
 - 📍 Based in **Mumbai**
 - 📧 [tejaschorage20@gmail.com](mailto:tejaschorage20@gmail.com)
