@@ -1,43 +1,35 @@
-# 🤖 Hi, I'm Tejas! 
+Hi, I'm Tejas. 🚀
+I build intelligent systems. From full-stack web applications to autonomous AI agents, I enjoy bridging the gap between complex backend architectures and clean, intuitive user experiences.
 
-### **Software Developer | Specialist in Agentic AI & RAG Systems** 🚀
-I build intelligent, autonomous systems that bridge the gap between complex data and user experience. Currently pursuing my B.Tech in IT at Vidyalankar Institute of Technology (Class of 2026).
+Currently pursuing my B.Tech in IT at Vidyalankar Institute of Technology (Class of 2026).
 
----
+🛠️ The Stack
+<!-- Core Languages -->
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp&theme=dark" alt="Languages" />
 
-### 🛠️ My Digital Toolbox
+<!-- Frameworks & Backends -->
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,fastapi,flask,tailwind&theme=dark" alt="Frameworks" />
 
-**Core Languages**
-![My Skills](https://skillicons.dev/icons?i=python,js,java,cpp,dart,html,css)
+<!-- AI, Databases & Cloud -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mongodb,supabase,docker&theme=dark" alt="Tools" />
 
-**AI & Backend Powerhouse**
-![AI Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,flask,nodejs,react,mongodb,postgres,aws,docker,jenkins)
+🔬 Featured Work
+🏦 VYOM+ | AI-Powered Banking
+Built a secure banking ecosystem featuring multi-factor authentication (Face/OTP).
 
-**Cloud & Databases**
-![DB Skills](https://skillicons.dev/icons?i=supabase,firebase,mysql,sqlite,redis)
+Integrated a RAG architecture via Vertex AI to power an intelligent chatbot for real-time financial insights and automated loan fraud detection.
 
----
+🌿 Crop Disease Detection | Computer Vision
+Developed a CNN-based image classification pipeline trained on Kaggle datasets.
 
-### 🔬 Featured Intelligence Projects
+Delivers real-time plant disease identification alongside targeted treatment recommendations.
 
-#### 🏦 [VYOM+](your-link-here) - AI-Powered Banking
-* **The Tech:** Vertex AI, RAG Architecture, Multi-factor Auth (Face/OTP).
-* **The Impact:** Automated loan approvals with fraud detection and an intelligent chatbot for actionable financial insights.
+📸 Neural Image Captioning | Deep Learning
+Built an end-to-end multi-modal system combining InceptionV3 for feature extraction and an LSTM network for sequence generation.
 
-#### 🌿 [Crop Disease Detection](your-link-here)
-* **The Tech:** CNN, Python, Kaggle Datasets.
-* **The Impact:** Real-time plant disease identification and treatment recommendations to improve agricultural yields.
+Optimized image-to-text context matching tracked via BLEU scores.
 
-#### 📸 [Neural Image Captioning](your-link-here)
-* **The Tech:** InceptionV3 + LSTM models.
-* **The Impact:** Automatic generation of captions for social media images, optimized using BLEU scores.
+📬 Let's Connect
+Based in Mumbai, India 📍
 
----
-
-### 🤝 Let's Collaborate
-- 📍 Based in **Mumbai**
-- 📧 [tejaschorage20@gmail.com](mailto:tejaschorage20@gmail.com)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 🐦 [Twitter](YOUR_TWITTER_URL)
-
-"Translating complex requirements into clean, performant, and secure code."
+Email • LinkedIn • Twitter
